@@ -1,0 +1,28 @@
+{
+  "name": "lab-express-basic",
+  "version": "1.0.0",
+  "description": "Basic website with express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yerkoarce/lab-express-basic.git"
+  },
+  "author": "Yerko Arce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yerkoarce/lab-express-basic/issues"
+  },
+  "homepage": "https://github.com/yerkoarce/lab-express-basic#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.9",
+    "@tailwindcss/postcss": "^4.0.9",
+    "express": "^4.21.2",
+    "postcss": "^8.5.3"
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.0.9"
+  }
+}
